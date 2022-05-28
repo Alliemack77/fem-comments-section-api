@@ -1,0 +1,22 @@
+{
+  "name": "comments-api",
+  "version": "1.0.0",
+  "description": "Mock API for FEM Comments Section challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alliemack77/fem-comments-section-api.git"
+  },
+  "author": "Allison Leggett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alliemack77/fem-comments-section-api/issues"
+  },
+  "homepage": "https://github.com/Alliemack77/fem-comments-section-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
